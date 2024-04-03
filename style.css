@@ -484,6 +484,10 @@ p{
     padding: 10px;
 }
 
+.mb-15{
+    margin-bottom: 15px;
+}
+
 .card p {
     padding: 10px 10px 30px 10px;
 
@@ -529,6 +533,10 @@ p{
 
 .card-5 {
     background-image: url('./img/home_sito.jpg');
+}
+
+.card-6{
+    background-image: url('./img/figma-sap.svg');
 }
 .hide-class{
     display: none;
